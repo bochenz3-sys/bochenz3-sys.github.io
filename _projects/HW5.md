@@ -1,7 +1,7 @@
 ---
 name: HW5
 tools: [Python, HTML, vega-lite]
-image: assets/pngs/cars.png
+image: assets/pngs/Licenses.png
 description: This is a HW5 project that uses vega-lite for interactive viz!
 custom_js:
   - vega.min
